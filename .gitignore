@@ -70,4 +70,3 @@ VIR-2025/[Pp]ackages/packages-lock.json.meta
 # Blender temp files
 *.blend1
 *.blend2
-*.fbx.meta
